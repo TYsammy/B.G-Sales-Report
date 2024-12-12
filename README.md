@@ -6,7 +6,7 @@ The review offers an overview of sales performance, encompassing total Sales, An
 
 ## Data Source
 
-This Data Was Obtained From Utiva Data School. this data as 3 sheet, Competitive teritory contain information about Teritory and Competitive teritory, Name  contain information about Shop_id, Product_name, Product_category, Territory, Competitive_Territory, Sales,	Selling_area,Annual_sales, Annual_sales_per and selling_area. Shop_Territory contain information about Shop_id, Territory and City.
+This Data Was Obtained From Utiva Data School. This data has 3 sheet, Competitive teritory contain information about Teritory and Competitive teritory, Name  contain information about Shop_id, Product_name, Product_category, Territory, Competitive_Territory, Sales,	Selling_area,Annual_sales, Annual_sales_per and selling_area. Shop_Territory contain information about Shop_id, Territory and City.
 
 
 ## Tools  
